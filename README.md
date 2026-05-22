@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="frontend/img/favicon-gold.png" width="45" height="45" align="center"> SampleVault
 
 **SampleVault** es una aplicación web diseñada para la gestión profesional de librerías de sonido. Permite a los productores musicales subir, categorizar, escuchar y organizar sus muestras de audio (samples) de forma privada y segura, todo bajo una arquitectura modular y eficiente.
@@ -68,3 +69,7 @@ NODE_ENV=production
 │       ├── utils/  # Lógica de sesión (authHelper.js).
 │       └── tests/  # Scripts necesarios para crear el frontend de los tests.
 ├── test-samples/ #samples de prueba para subir.
+=======
+# Copia-del-Sample-Vault-tests
+Uso este repositorio para entender como manejarme, abrir el servidor, MariaDB, etc
+>>>>>>> 068296edd37a041dca697f398824b217a594c2c0
